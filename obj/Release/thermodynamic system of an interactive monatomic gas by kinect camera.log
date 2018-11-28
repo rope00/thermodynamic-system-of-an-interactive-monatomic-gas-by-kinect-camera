@@ -1,0 +1,61 @@
+﻿  ofApp.cpp
+d:\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\thermodynamic system of an interactive monatomic gas by kinect camera\src\ofapp.cpp(55): warning C4018: '<': no coinciden signed/unsigned
+d:\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\thermodynamic system of an interactive monatomic gas by kinect camera\src\ofapp.cpp(149): warning C4018: '<': no coinciden signed/unsigned
+d:\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\thermodynamic system of an interactive monatomic gas by kinect camera\src\ofapp.cpp(247): warning C4018: '<': no coinciden signed/unsigned
+d:\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\thermodynamic system of an interactive monatomic gas by kinect camera\src\ofapp.cpp(251): warning C4018: '<': no coinciden signed/unsigned
+d:\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\thermodynamic system of an interactive monatomic gas by kinect camera\src\ofapp.cpp(256): warning C4018: '<': no coinciden signed/unsigned
+d:\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\thermodynamic system of an interactive monatomic gas by kinect camera\src\ofapp.cpp(260): warning C4018: '<': no coinciden signed/unsigned
+d:\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\thermodynamic system of an interactive monatomic gas by kinect camera\src\ofapp.cpp(295): warning C4018: '<': no coinciden signed/unsigned
+     Creando biblioteca bin\thermodynamic system of an interactive monatomic gas by kinect camera.lib y objeto bin\thermodynamic system of an interactive monatomic gas by kinect camera.exp
+  Generando código
+  0 of 346 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  thermodynamic system of an interactive monatomic gas by kinect camera.vcxproj -> D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\thermodynamic system of an interactive monatomic gas by kinect camera.exe
+  
+  	                   2	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *Archivo EXTRA		 5647872	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\FreeImage.dll
+  	  *Archivo EXTRA		   46592	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\libusb0.dll
+  	  *Archivo EXTRA		   67680	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\libusb0_x86.dll
+  	  *Archivo EXTRA		   84280	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\libusbK.dll
+  	  *Archivo EXTRA		   84280	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\libusbK_x86.dll
+  	  *Archivo EXTRA		  157184	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\nimCodecs.dll
+  	  *Archivo EXTRA		   98304	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\nimMockNodes.dll
+  	  *Archivo EXTRA		   86016	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\nimRecorder.dll
+  	  *Archivo EXTRA		  307712	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\OpenNI.dll
+  	  *Archivo EXTRA		 1629040	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\WdfCoInstaller01011.dll
+  	  *Archivo EXTRA		  851176	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\winusbcoinstaller2.dll
+  	  *Archivo EXTRA		  117248	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\XnVCNITE_1_5_2.dll
+  	  *Archivo EXTRA		 3058688	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\XnVFeatures_1_5_2.dll
+  	  *Archivo EXTRA		  894464	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\XnVHandGenerator_1_5_2.dll
+  	  *Archivo EXTRA		  848384	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\XnVNITE_1_5_2.dll
+  
+  	                   1	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *Archivo EXTRA		 1266176	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\fmodex.dll
+  	  *Archivo EXTRA		 1312768	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\fmodexL.dll
+  	  *Archivo EXTRA		   46592	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\libusb0.dll
+  	  *Archivo EXTRA		   67680	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\libusb0_x86.dll
+  	  *Archivo EXTRA		   84280	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\libusbK.dll
+  	  *Archivo EXTRA		   84280	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\libusbK_x86.dll
+  	  *Archivo EXTRA		  157184	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\nimCodecs.dll
+  	  *Archivo EXTRA		   98304	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\nimMockNodes.dll
+  	  *Archivo EXTRA		   86016	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\nimRecorder.dll
+  	  *Archivo EXTRA		  307712	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\OpenNI.dll
+  	  *Archivo EXTRA		 1629040	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\WdfCoInstaller01011.dll
+  	  *Archivo EXTRA		  851176	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\winusbcoinstaller2.dll
+  	  *Archivo EXTRA		  117248	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\XnVCNITE_1_5_2.dll
+  	  *Archivo EXTRA		 3058688	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\XnVFeatures_1_5_2.dll
+  	  *Archivo EXTRA		  894464	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\XnVHandGenerator_1_5_2.dll
+  	  *Archivo EXTRA		  848384	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\XnVNITE_1_5_2.dll
+  
+  	                   8	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\libs\openNI\lib\vs\Win32\
+  	  *Archivo EXTRA		 1266176	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\fmodex.dll
+  	  *Archivo EXTRA		 1312768	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\fmodexL.dll
+  	  *Archivo EXTRA		 5647872	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\FreeImage.dll
+  	  *Archivo EXTRA		   46592	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\libusb0.dll
+  	  *Archivo EXTRA		   67680	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\libusb0_x86.dll
+  	  *Archivo EXTRA		   84280	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\libusbK.dll
+  	  *Archivo EXTRA		   84280	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\libusbK_x86.dll
+  	  *Archivo EXTRA		 1629040	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\WdfCoInstaller01011.dll
+  	  *Archivo EXTRA		  851176	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\thermodynamic system of an interactive monatomic gas by kinect camera\bin\winusbcoinstaller2.dll
