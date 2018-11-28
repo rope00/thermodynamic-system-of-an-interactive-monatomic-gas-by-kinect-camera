@@ -3,3 +3,11 @@ Se diseño una herramienta de realidad aumentada que aborda contenidos sobre ter
 
 
 An augmented reality tool was designed that deals with contents on thermodynamics for fourth average years, using the C ++ programming language, the openFrameworks tool and a Kinect camera (Xbox 360). Where the behavior of an ideal gas is explained by the laws of thermodynamics. The kinetic modeling of an ideal monatomic gas was carried out by means of this tool, so the student is a participant in the changes of this gas, the analysis that is observable are the variations of speed, temperature and pressure. Thanks to the camera it is possible to calculate the movement of the students in order to modify the velocity of the particles of this gas and change the temperature and pressure in a quantitative way.
+
+
+Descargar lso siguintes Addons para el foncionamiento del codigo:
+
+1.  OfxKu  https://github.com/kuflex/ofxKu
+2. ofxKuBox2d https://github.com/kuflex/ofxKuBox2d
+
+y agregar ala carpeta de Addons.
