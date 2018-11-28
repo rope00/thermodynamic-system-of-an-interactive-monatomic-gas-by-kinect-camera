@@ -182,9 +182,9 @@ void ofApp::setup(){
 	//ofxKuBox2dWorldParams prm;
 	//particleWord.setup(prm);
 
-	//nearThreshold = 230;
-	//farThreshold = 150;
-	//bThreshWithOpenCV = false;
+	nearThreshold = 230;
+	farThreshold = 150;
+	bThreshWithOpenCV = false;
 
 	ofSetFrameRate(60);
 
