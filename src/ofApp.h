@@ -4,7 +4,6 @@
 #include "ofxOpenCv.h"
 #include "ofxKinect.h"
 #include "ofxKuRasterOptFlow.h"
-#include "ofxKuBox2d.h"
 
 
 
@@ -52,21 +51,19 @@ class ofApp : public ofBaseApp{
 		bool debug = false; //!!!!!!!!!!!!!!!! please set up all variales start values // used for displaying debug information
 		float K; // calculation of the total energy kinetic of the system by molecular gas
 		float T;//calculation of the total temperature K of the system by molecular gas
-		float P;
+		float P;//presure
 		float V;// volume const of 1920x1080x1 pixels Screen dimension
-		float cv;
-		float CV;
-		float CP;
-		float U;
-		float Q;
-		float W;
+		float cv;////heat capacity at constant volume
+		float CV;////calculation heat capacity at constant volume
+		float CP;////heat capacity at constant presure
+		float U;// internal energy
+		float Q;//heat
+		float W;//work
 		vector<Particle> particles; // map of all the particles
 
 		ofxKinect kinect;
 
 		ofxKuRasterOptFlow OptFlow;
-
-		ofxKuBox2dWorld particleWord;
 
 		ofxCvGrayscaleImage grayImage; // grayscale depth image
 		ofxCvGrayscaleImage grayThreshNear; // the near thresholded image
