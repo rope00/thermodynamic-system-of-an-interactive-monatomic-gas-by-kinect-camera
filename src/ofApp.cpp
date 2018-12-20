@@ -2,7 +2,7 @@
 
 void Particle::setup(){
 	radius = 8;
-	m = 39;
+	m = 39.948; // mass Argon Ar
 	// assign it's starting position
 	p.x = ofRandom(radius, ofGetWidth() - radius);
 	p.y = ofRandom(radius, ofGetHeight() - radius);
@@ -32,7 +32,7 @@ void Particle::updateByFlow(ofxKuRasterOptFlow &flow) {
 		}
 
 	}
-	v *= 0.999;		//ADDED SOME VISCOSITY FOR PARTICLES SLOWLY STOP
+	//v *= 0.999;		//ADDED SOME VISCOSITY FOR PARTICLES SLOWLY STOP
 
 }
 //-----------------------------------------------------------------------------------------------
@@ -140,7 +140,7 @@ void Particle::updateParticles(Particle * particle2){
 void ofApp::setup(){
 	ofSetFrameRate(60);
 
-	const int NUM_PARTICLES = 300;
+	const int NUM_PARTICLES = 250;
 	for (int i = 0; i<NUM_PARTICLES; i++) {
 		Particle particle;
 		particle.setup();
@@ -178,9 +178,6 @@ void ofApp::setup(){
 	grayThreshFar.allocate(kinect.width, kinect.height);
 
 	OptFlow.setup(kinect.width, kinect.height);
-	
-	//ofxKuBox2dWorldParams prm;
-	//particleWord.setup(prm);
 
 	nearThreshold = 230;
 	farThreshold = 150;
@@ -234,11 +231,6 @@ void ofApp::update() {
 			}
 			
 			OptFlow.update(mask, kinect.width, kinect.height);
-
-			//for (int i = 0; i < numPixels; i++) {
-				//mask[i] = (mask[i] < 128) ? 0 : 255;
-			//}
-			//particleWord.applyMask(mask, kinect.width, kinect.height);
 			
 			// update the cv images
 			grayImage.flagImageChanged();
@@ -289,7 +281,7 @@ void ofApp::draw() {
 
 
 	kinect.drawDepth(0, 0, w, h);
-	//depthtexture.draw(0, 0, w, h);  
+ 
 	OptFlow.draw(0, 0, w, h, 10, 5);
 	ofSetColor(255);
 	for (int i = 0; i < particles.size(); i++) {
