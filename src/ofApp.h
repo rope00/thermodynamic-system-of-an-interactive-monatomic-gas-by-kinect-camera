@@ -52,7 +52,7 @@ class ofApp : public ofBaseApp{
 		float K; // calculation of the total energy kinetic of the system by molecular gas
 		float T;//calculation of the total temperature K of the system by molecular gas
 		float P;//presure
-		float V;// volume const of 1920x1080x1 pixels Screen dimension
+		float V;// volume const of 1920x1080 pixels Screen dimension
 		float cv;////heat capacity at constant volume
 		float CV;////calculation heat capacity at constant volume
 		float CP;////heat capacity at constant presure
