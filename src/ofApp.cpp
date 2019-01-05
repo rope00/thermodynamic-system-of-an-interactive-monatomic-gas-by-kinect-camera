@@ -256,7 +256,7 @@ void ofApp::update() {
 			cv = 1.5*R; //J/mol*K
 			T = K / cv; // K \ K= (3/2)RT , 1/cv = 0.7/R
 						//calculation of the total pressure of the system
-			V = 548633.09;//volume Litre L
+			V = 144.08667;//volume Litre L
 			P = 0.7*K / V; // Atm   1atm = 101325 pa
 						   //calculation of the internal energy of the system
 			U = K; // U = Cv * T-- > U = 3 / 2 * R*T & T = (2 / 3 * R)*K
