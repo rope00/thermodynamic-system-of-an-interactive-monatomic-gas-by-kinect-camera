@@ -7,8 +7,8 @@ void Particle::setup(){
 	p.x = ofRandom(radius, ofGetWidth() - radius);
 	p.y = ofRandom(radius, ofGetHeight() - radius);
 	// assign it's velocity
-	v.x = 1.0;
-	v.y = -1.0;
+	v.x = 0.5;
+	v.y = -0.5;
 	
 	
 }
