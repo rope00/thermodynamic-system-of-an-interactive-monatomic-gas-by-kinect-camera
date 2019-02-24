@@ -8,6 +8,4 @@ An augmented reality tool was designed that deals with contents on thermodynamic
 Descargar los siguintes Addons para el foncionamiento del codigo:
 
 1.  OfxKu  https://github.com/kuflex/ofxKu
-2. ofxKuBox2d https://github.com/kuflex/ofxKuBox2d
-
 y agregar a la carpeta de Addons.
